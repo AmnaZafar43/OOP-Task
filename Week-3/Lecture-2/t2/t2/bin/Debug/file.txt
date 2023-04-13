@@ -1,0 +1,6 @@
+soap,grocery,100,10,5
+coca cola,local,450,5,2
+mango,fruit,100,5,1
+brinjal,vegetable,200,20,5
+apple,fruit,150,10,2
+ladyfinger,vegetable,90,10,3

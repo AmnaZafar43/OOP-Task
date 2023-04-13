@@ -1,0 +1,2 @@
+E:\OOP\Task\Week-2\Lecture-1\task-2\task-2\obj\Debug\task-2.csprojAssemblyReference.cache
+E:\OOP\Task\Week-2\Lecture-1\task-2\task-2\obj\Debug\task-2.csproj.CoreCompileInputs.cache

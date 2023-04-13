@@ -1,0 +1,7 @@
+E:\OOP\TASK\Week-6\Lecture-3\t1\task-1\task-1\bin\Debug\task-1.exe.config
+E:\OOP\TASK\Week-6\Lecture-3\t1\task-1\task-1\bin\Debug\task-1.exe
+E:\OOP\TASK\Week-6\Lecture-3\t1\task-1\task-1\bin\Debug\task-1.pdb
+E:\OOP\TASK\Week-6\Lecture-3\t1\task-1\task-1\obj\Debug\task-1.csprojAssemblyReference.cache
+E:\OOP\TASK\Week-6\Lecture-3\t1\task-1\task-1\obj\Debug\task-1.csproj.CoreCompileInputs.cache
+E:\OOP\TASK\Week-6\Lecture-3\t1\task-1\task-1\obj\Debug\task-1.exe
+E:\OOP\TASK\Week-6\Lecture-3\t1\task-1\task-1\obj\Debug\task-1.pdb
